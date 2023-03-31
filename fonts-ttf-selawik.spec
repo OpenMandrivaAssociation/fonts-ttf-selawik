@@ -1,6 +1,6 @@
 Name:		fonts-ttf-selawik
 Version:	1.0
-Release:	1
+Release:	2
 Summary:	Selawik ttf fonts
 License:	SIL Open Font License v1.10
 Group:		System/Fonts/True type
